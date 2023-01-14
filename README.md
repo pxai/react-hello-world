@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Build Status](https://app.travis-ci.com/pxai/react-hello-world.svg?branch=master)](https://app.travis-ci.com/pxai/react-hello-world)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
