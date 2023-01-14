@@ -3,6 +3,6 @@ cache:
   yarn: true
   npm: true
 node_js:
-  - '18'
+  - '16'
 script:
   - npm i && CI=true npm test
